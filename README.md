@@ -20,11 +20,7 @@ done by beautiful soup , pandas
 insert into sql database (sqlite3?)
 
 # part C 
-web app 
+web 
 
-# part D 
-?
 
-# part E
-profit
 
