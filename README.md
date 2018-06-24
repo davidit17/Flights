@@ -15,12 +15,20 @@ done by beautiful soup , pandas
 
 ---------
 # part B 
-## TO DO
 
-insert into sql database (sqlite3?)
+from dataframe insert to db file 
+
+done using sqlite3
+
+
 
 # part C 
-web 
+## TO DO
+data analysis
+
+automaticly run on web each day
+
+ML predictions
 
 
 
