@@ -4,6 +4,7 @@ Get cheap flights prices bot
 
 ## sources :
 
+
 ![S1](images/source1.JPG?raw=true "Title")
 
 
@@ -11,16 +12,21 @@ Get cheap flights prices bot
 
 ## highlight selected prices and destinations 
 
-![S2](images/pricesh.JPG?raw=true "Title")
+<p align="center">
+  <img src="images/pricesh.JPG">
+</p>
 
 ## see last offers ordered by price 
 
-![S2](images/lastoffers.JPG?raw=true "Title")
+<p align="center">
+  <img src="images/lastoffers.JPG">
+</p>
 
 ## see destination price history  
 
-![S2](images/rome.JPG?raw=true "Title")
-
+<p align="center">
+  <img src="images/rome.JPG">
+</p>
 
 
 
