@@ -1,6 +1,29 @@
 # Flights
 
-Get cheap flights prices And than ...
+Get cheap flights prices bot
+
+## sources :
+
+![S1](images/source1.JPG?raw=true "Title")
+
+
+![S2](images/source2.JPG?raw=true "Title")
+
+## highlight selected prices and destinations 
+
+![S2](images/pricesh.JPG?raw=true "Title")
+
+## see last offers ordered by price 
+
+![S2](images/lastoffers.JPG?raw=true "Title")
+
+## see destination price history  
+
+![S2](images/rome.JPG?raw=true "Title")
+
+
+
+
 
 # part A 
 ## get flight prices from site :
