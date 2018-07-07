@@ -1,6 +1,11 @@
 # Flights
 
-Get cheap flights prices bot
+Get cheap flights prices bot.
+
+F-Scraper.py - python file runs daily on my computer automatically (windows task scheduler) and inserts data to
+DB. 
+
+flights3.0.ipynb - notebook where you can access the data and look for info
 
 ## sources :
 
@@ -53,9 +58,8 @@ done using sqlite3
 
 # part C 
 ## TO DO
-data analysis
-
-automaticly run on web each day
+upload to web - heroku or aws
+(change to postgresql if needed)
 
 ML predictions
 
