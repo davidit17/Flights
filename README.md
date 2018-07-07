@@ -7,6 +7,8 @@ DB.
 
 flights3.0.ipynb - notebook where you can access the data and look for info
 
+printlog.py - add to the end of F-Scraper to write automatic run log 
+
 ## sources :
 
 
