@@ -26,8 +26,6 @@ c2 = r2.content
 soup2=BeautifulSoup(c2,"html.parser")
 all2 = soup2.find_all("ul")  
 
-print("loading")
-
 
 
 
@@ -61,7 +59,6 @@ for i in range(len(all2)):
     last.append(m)
 
 
-print("arranging")
 
 
 # insert arrays into dataframes
@@ -77,8 +74,6 @@ df2 = df2[cols]
 #merge the 2 dfs
 merged = df2.append(df,ignore_index=True)
 
-
-print("inserting")
 
 
 # sql 
